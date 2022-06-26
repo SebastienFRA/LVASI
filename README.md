@@ -49,7 +49,7 @@ dans le dossier "Logiciels" dans le même dossier que le script principal
 
 2°/ Lorsque les scripts des logiciels choisis sont tous mis dans le même
 dossier que le script principal, il suffit de faire un clic-droit sur le
-script principal et de choisir "Éxécuter avec PowerShell".
+script principal "LVASI.ps1" et de choisir "Éxécuter avec PowerShell".
 
 3°/ Une fenêtre Powershell s'ouvre alors et des instructions sont affichées
 pour avant de lancer les installations.
