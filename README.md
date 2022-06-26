@@ -81,6 +81,10 @@ Jason Bergner prennent en considération l'architecture de l'ordinateur
 pour installer la bonne version (les scripts ont donc été modifiés pour qu'ils
 téléchargent la version correspondant au système).
 
+- Les installations sont prioritairement faites en français. Certains
+logiciels s'adaptent à la langue du système, mais si le logiciel doit être
+téléchargé dans une langue spécifique, c'est le français que j'ai choisi.
+
 - J'ai écrit/modifier les scripts afin qu'ils téléchargent automatiquement
 la dernière version du logiciel disponible. Les script de Jason Bergner, par
 exemple, n'étaient pas prévus pour télécharger le logiciel avant l'installation.
