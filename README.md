@@ -90,7 +90,7 @@ utilisateur pour faciliter son utilisation.
 
 - N'hésitez pas à me contacter s'il y a des problèmes avec un ou plusieurs
 scripts. N'hésitez pas non plus si vous souhaitez que j'ajoute un logiciel pris
-en charge.
+en charge, j'essaierai de faire au mieux.
 
 --------------------------------
 CRÉDITS                      
