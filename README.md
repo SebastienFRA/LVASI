@@ -35,7 +35,7 @@ UTILISATION
 
 Le fonctionnement est le suivant :
 
-- Un script principal est chargé de servir d'interface avec l'utilisateur
+- Un script principal (LVASI.ps1) est chargé de servir d'interface avec l'utilisateur
 
 - Un script pour chacun des logiciels pris en charge est présent dans le 
 dossier "Logiciels"
