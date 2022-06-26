@@ -27,6 +27,8 @@ l'installation et non la mise à jour ou la désinstallation des logiciels,
 je ne me suis donc pas attardé sur ces 2 dernières parties sur les scripts
 de Jason Bergner.
 
+Au 26/06/2022, 13 logiciels sont pris en charge
+
 -------------------------------------------------
 UTILISATION
 -------------------------------------------------
