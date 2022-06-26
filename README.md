@@ -2,7 +2,7 @@
 Latest Version Auto Silent Install
 
 ------------------------------------------------------------		  
-PRÉSENTATION 
+PRESENTATION 
 ------------------------------------------------------------
 
 L.V.A.S.I. is a small personal project that responds to a desire:
@@ -29,7 +29,7 @@ not updating or uninstalling software, so I didn't dwell on those last
 As of 06/26/2022, 15 software are supported
 
 -------------------------------------------------
-UTILISATION
+USE
 -------------------------------------------------
 
 The operation is as follows:
@@ -97,7 +97,7 @@ to use.
 free if you want me to add supported software, I'll try to do my best.
 
 --------------------------------
-CRÉDITS                      
+CREDITS                      
 --------------------------------
 
 A special thanks to Jason Bergner for his work shared on his website:
