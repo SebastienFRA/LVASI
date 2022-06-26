@@ -42,7 +42,7 @@ dossier "Logiciels"
 
 +++ Éxécution +++
 
-1)/ Pour que le script principal prenne en compte l'installation d'un
+1°/ Pour que le script principal prenne en compte l'installation d'un
 logiciel souhaité, il suffit de mettre le script de ce dernier, présent
 dans le dossier "Logiciels" dans le même dossier que le script principal
 à l'aide d'un copier/coller.
