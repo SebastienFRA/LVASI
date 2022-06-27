@@ -11,7 +11,7 @@ without intervention on my part, the software I need in their latest
 versions. This is to facilitate the acquisition or reinstallation of
 a computer.
 
-L.V.A.S.I. works thanks to scripts written under PowerShell 3. It
+L.V.A.S.I. works thanks to scripts written under PowerShell 5. It
 therefore works exclusively under Windows.
 
 Knowing nothing about it at all before embarking on this project,
