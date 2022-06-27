@@ -33,7 +33,7 @@ automatiquement et sans intervention de ma part, les logiciels dont
 j'ai besoin dans leurs dernières versions. Ceci pour faciliter
 l'acquisition ou la réinstallation d'un ordinateur.
 
-L.V.A.S.I. fonctionne grâce à des scripts écrits sous PowerShell 3.
+L.V.A.S.I. fonctionne grâce à des scripts écrits sous PowerShell 5.
 Il fonctionne donc exclusivement sous Windows.
 
 N'y connaissant rien du tout avant de me lancer dans ce projet, j'ai
