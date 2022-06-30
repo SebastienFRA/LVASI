@@ -26,7 +26,7 @@ already a victory for me. My focus with this project is installing and
 not updating or uninstalling software, so I didn't dwell on those last
 2 parts about Jason Bergner's scripts.
 
-As of 06/26/2022, 15 software are supported
+As of 06/30/2022, 63 softwares are supported
 
 -------------------------------------------------
 USE
