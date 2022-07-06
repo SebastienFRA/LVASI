@@ -38,10 +38,7 @@ Il fonctionne donc exclusivement sous Windows.
 
 N'y connaissant rien du tout avant de me lancer dans ce projet, j'ai
 beaucoup écumé internet afin de trouver les réponses que je cherchais.
-Au final, les scripts sont pour une bonne partie de moi, et de l'autre
-quasi exclusivement basé sur le travail de Jason Bergner du site 
-"SilentInstallHQ.com". C'est sont travail, qu'il met à disposition, que
-j'ai utilisé pour au moins la moitié des logiciels.
+Je me suis beaucoup servis du site "SilentInstallHQ.com" de Jason Bergner
 
 Il est certain que les scripts ne sont pas optimisés, mais ils fonctionnent
 c'est déjà une victoire pour moi. Mon objectif avec ce projet est
@@ -49,7 +46,7 @@ l'installation et non la mise à jour ou la désinstallation des logiciels,
 je ne me suis donc pas attardé sur ces 2 dernières parties sur les scripts
 de Jason Bergner.
 
-Au 30/06/2022, 63 logiciels sont pris en charge.
+Au 06/07/2022, 93 logiciels sont pris en charge.
 
 -------------------------------------------------
  _ _  ___  _  _    _  __   _   ___  _   _   _  _ 
@@ -68,18 +65,16 @@ dossier "Logiciels"
 
 +++ Éxécution +++
 
-- Dézipez tout d'abord le fichier dans le dossier de votre choix.
-
-- Pour que le script principal prenne en compte l'installation d'un
+1)/ Pour que le script principal prenne en compte l'installation d'un
 logiciel souhaité, il suffit de mettre le script de ce dernier, présent
 dans le dossier "Logiciels" dans le même dossier que le script principal
 à l'aide d'un copier/coller.
 
-- Lorsque les scripts des logiciels choisis sont tous mis dans le même
+2°/ Lorsque les scripts des logiciels choisis sont tous mis dans le même
 dossier que le script principal, il suffit de faire un clic-droit sur le
 script principal "LVASI.ps1" et de choisir "Éxécuter avec PowerShell".
 
-- Une fenêtre Powershell s'ouvre alors et des instructions sont affichées
+3°/ Une fenêtre Powershell s'ouvre alors et des instructions sont affichées
 pour avant de lancer les installations.
 
 ATTENTION : Le script demande de désactiver l'UAC avant de commencer, ceci
@@ -87,13 +82,13 @@ dans le but de ne pas être interrompu par Windows lors de l'éxécution de
 certaines installations. Le script proposera de le réactiver à la fin du
 processus.
 
-- Une fois les vaidations effectuées, le script procédera aux téléchargements
+4°/ Une fois les vaidations effectuées, le script procédera aux téléchargements
 et installations des logiciels choisis. Un message s'affichera dans la console
 pour indiqué si chaque logiciel a été installé ou non. (Un message apparaît
 systématiquemet pour chaque logiciel pris en charge par L.V.A.S.I., même s'il
 n'a pas été choisi, pour indiqué s'il sera, ou non, installé.)
 
-- Lorsque tout sera terminé, les fichiers téléchargés auront été supprimés,
+5°/ Lorsque tout sera terminé, les fichiers téléchargés auront été supprimés,
 mais suivant les logiciels installés, il restera peut-être un dossier nommé
 "AppDeployToolkit" (situé dans le même dossier que le script principal), il
 faudra le supprimer manuellement. Je n'ai pas encore réussi à le faire via le
@@ -117,10 +112,8 @@ téléchargent la version correspondant au système).
 logiciels s'adaptent à la langue du système, mais si le logiciel doit être
 téléchargé dans une langue spécifique, c'est le français que j'ai choisi.
 
-- J'ai écrit/modifier les scripts afin qu'ils téléchargent automatiquement
-la dernière version du logiciel disponible. Les script de Jason Bergner, par
-exemple, n'étaient pas prévus pour télécharger le logiciel avant l'installation.
-Il fallait le faire manuellement, en 32 et 64-bit, avant le lancement du script.
+- J'ai écrit les scripts afin qu'ils téléchargent automatiquement la dernière
+version du logiciel disponible.
 
 - Le projet est bien entendu en "open-source", libre à vous de le modifier, le
 compléter, l'améliorer, etc. Mon souhait ultime étant qu'il existe une interface
@@ -140,6 +133,5 @@ en charge, j'essaierai de faire au mieux.
 
 Un remerciement particulier à Jason Bergner pour son travail partagé sur son
 site : https://silentinstallhq.com/
-J'espère ne pas avoir trop dénaturé son travail en y apportant mes modifications.
 
 L'auteur, moi-même, Sébastien FRANCOIS
