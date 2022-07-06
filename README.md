@@ -14,12 +14,9 @@ a computer.
 L.V.A.S.I. works thanks to scripts written under PowerShell 5. It
 therefore works exclusively under Windows.
 
-Knowing nothing about it at all before embarking on this project,
-I scoured the internet a lot to find the answers I was looking for.
-In the end, the scripts are for a good part of me, and the other almost
-exclusively based on the work of Jason Bergner from the website
-"SilentInstallHQ.com". It is his work, which he makes available, that
-I have used for at least half of the software.
+Knowing nothing about it before embarking on this project, I
+scoured the internet a lot to find the answers I was looking for.
+I used Jason Bergner's "SilentInstallHQ.com" site a lot.
 
 It is certain that the scripts are not optimized, but they work it is
 already a victory for me. My focus with this project is installing and
@@ -84,10 +81,8 @@ so that they download the version corresponding to the system).
 of the system, but if the software must be downloaded in a specific language, it is
 French that I have chosen.
 
-- I wrote/modified the scripts so that they automatically download the latest software
-version available. Jason Bergner's scripts, for example, were not intended to download
-software before installation. It had to be done manually, in 32 and 64-bit, before
-launching the script.
+- I wrote the scripts so that they automatically download the latest software version
+available.
 
 - The project is of course in "open-source", you are free to modify it, complete it,
 improve it, etc. My ultimate wish being that there is a user interface to make it easier
@@ -100,8 +95,7 @@ free if you want me to add supported software, I'll try to do my best.
 CREDITS                      
 --------------------------------
 
-A special thanks to Jason Bergner for his work shared on his website:
-https://silentinstallhq.com/ I hope not to have distorted his work too much by making
-my modifications.
+Special thanks to Jason Bergner for his shared work on his website:
+https://silentinstallhq.com/
 
 The author, myself, Sébastien FRANCOIS
