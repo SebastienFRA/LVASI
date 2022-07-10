@@ -23,10 +23,10 @@ already a victory for me. My focus with this project is installing and
 not updating or uninstalling software, so I didn't dwell on those last
 2 parts about Jason Bergner's scripts.
 
-As of 07/06/2022, 93 softwares are supported
+As of 07/11/2022, 98 softwares are supported
 
 -------------------------------------------------
-USE
+USE (BEFORE 1.5 VERSION)
 -------------------------------------------------
 
 The operation is as follows:
