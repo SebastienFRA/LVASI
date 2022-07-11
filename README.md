@@ -24,6 +24,8 @@ Exemple video : https://youtu.be/ux5MgNagxnU
 
 ![alt text](https://github.com/SebastienFRA/LVASI/blob/main/img/LVASI%201.5.png)
 
+[![Watch the video](https://github.com/SebastienFRA/LVASI/blob/main/img/Exemple%20LVASI%201.5%20Miniature.png)](https://youtu.be/ux5MgNagxnU)
+
 -------------------------
 NOTES 
 -------------------------
