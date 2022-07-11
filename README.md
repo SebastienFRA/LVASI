@@ -22,48 +22,7 @@ As of 07/11/2022, 98 softwares are supported
 
 Exemple video : https://youtu.be/ux5MgNagxnU
 
--------------------------------------------------
-USE (BEFORE 1.5 VERSION)
--------------------------------------------------
-
-The operation is as follows:
-
--  A main script (LVASI.ps1) is responsible for serving as an interface
-with the user
-
-- A script for each of the supported software is present in the "Software"
-folder
-
-+++ Execution +++
-
-- First unzip the file in the folder of your choice.
-
-- For the main script to take into account the installation of a desired
-software, simply put the script of the latter, present in the "Logiciels"
-folder in the same folder as the main script using a copy /to stick on.
-
-- When the scripts of the chosen software are all put in the same folder as
-the main script, just right-click on the main script "LVASI.ps1" and choose
-"Run with PowerShell".
-
-- A Powershell window then opens and instructions are displayed for before
-launching the installations.
-
-WARNING: The script asks to disable UAC before starting, this in order not to
-be interrupted by Windows during the execution of certain installations. The
-script will offer to re-enable it at the end of the process.
-
-- Once the validations have been carried out, the script will proceed with the
-downloads and installations of the chosen software. A message will be displayed
-in the console to indicate whether each software has been installed or not. (A
-message appears systematically for each software supported by L.V.A.S.I., even
-if it has not been chosen, to indicate whether or not it will be installed.)
-
-- When everything is finished, the downloaded files will have been deleted, but
-depending on the software installed, there may remain a folder named "AppDeployToolkit"
-(located in the same folder as the main script), it will have to be deleted manually.
-I haven't managed to do it through the script yet because some elements remain "used"
-by Powershell.
+![alt text](https://github.com/SebastienFRA/LVASI/blob/main/img/LVASI%201.5.png)
 
 -------------------------
 NOTES 
@@ -82,8 +41,7 @@ French that I have chosen.
 available.
 
 - The project is of course in "open-source", you are free to modify it, complete it,
-improve it, etc. My ultimate wish being that there is a user interface to make it easier
-to use.
+improve it, etc.
 
 - Feel free to contact me if there are any issues with one or more scripts. Also feel
 free if you want me to add supported software, I'll try to do my best.
