@@ -20,6 +20,8 @@ I used Jason Bergner's "SilentInstallHQ.com" site a lot.
 
 As of 07/11/2022, 98 softwares are supported
 
+Exemple video : https://youtu.be/ux5MgNagxnU
+
 -------------------------------------------------
 USE (BEFORE 1.5 VERSION)
 -------------------------------------------------
