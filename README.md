@@ -18,11 +18,6 @@ Knowing nothing about it before embarking on this project, I
 scoured the internet a lot to find the answers I was looking for.
 I used Jason Bergner's "SilentInstallHQ.com" site a lot.
 
-It is certain that the scripts are not optimized, but they work it is
-already a victory for me. My focus with this project is installing and
-not updating or uninstalling software, so I didn't dwell on those last
-2 parts about Jason Bergner's scripts.
-
 As of 07/11/2022, 98 softwares are supported
 
 -------------------------------------------------
