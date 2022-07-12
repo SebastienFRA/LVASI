@@ -1,6 +1,7 @@
 #L.V.A.S.I.                                                   
 Latest Version Auto Silent Install
 
+![GitHub all releases](https://img.shields.io/github/downloads/sebastienFRA/LVASI/total?color=a)
 ------------------------------------------------------------		  
 PRESENTATION 
 ------------------------------------------------------------
