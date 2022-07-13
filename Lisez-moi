@@ -44,53 +44,6 @@ Au 14/07/2022, 109 logiciels sont pris en charge.
 
 Exemple vidéo : https://youtu.be/ux5MgNagxnU
 
--------------------------------------------------
- _ _  ___  _  _    _  __   _   ___  _   _   _  _ 
-| | ||_ _|| || |  | |/ _| / \ |_ _|| | / \ | \| |
-| U | | | | || |_ | |\_ \| o | | | | |( o )| \\ |
-|___| |_| |_||___||_||__/|_n_| |_| |_| \_/ |_|\_|
-                                                 
--------------------------------------------------
-(Pour les versions antérieures à la 1.5)
-
-Le fonctionnement est le suivant :
-
-- Un script principal est chargé de servir d'interface avec l'utilisateur
-
-- Un script pour chacun des logiciels pris en charge est présent dans le 
-dossier "Logiciels"
-
-+++ Éxécution +++
-
-1)/ Pour que le script principal prenne en compte l'installation d'un
-logiciel souhaité, il suffit de mettre le script de ce dernier, présent
-dans le dossier "Logiciels" dans le même dossier que le script principal
-à l'aide d'un copier/coller.
-
-2°/ Lorsque les scripts des logiciels choisis sont tous mis dans le même
-dossier que le script principal, il suffit de faire un clic-droit sur le
-script principal "LVASI.ps1" et de choisir "Éxécuter avec PowerShell".
-
-3°/ Une fenêtre Powershell s'ouvre alors et des instructions sont affichées
-pour avant de lancer les installations.
-
-ATTENTION : Le script demande de désactiver l'UAC avant de commencer, ceci
-dans le but de ne pas être interrompu par Windows lors de l'éxécution de
-certaines installations. Le script proposera de le réactiver à la fin du
-processus.
-
-4°/ Une fois les vaidations effectuées, le script procédera aux téléchargements
-et installations des logiciels choisis. Un message s'affichera dans la console
-pour indiqué si chaque logiciel a été installé ou non. (Un message apparaît
-systématiquemet pour chaque logiciel pris en charge par L.V.A.S.I., même s'il
-n'a pas été choisi, pour indiqué s'il sera, ou non, installé.)
-
-5°/ Lorsque tout sera terminé, les fichiers téléchargés auront été supprimés,
-mais suivant les logiciels installés, il restera peut-être un dossier nommé
-"AppDeployToolkit" (situé dans le même dossier que le script principal), il
-faudra le supprimer manuellement. Je n'ai pas encore réussi à le faire via le
-script car certains éléments restent "utilisés" par Powershell.
-
 -------------------------
  _  _   _   ___  ___  __ 
 | \| | / \ |_ _|| __|/ _|
