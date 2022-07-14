@@ -53,10 +53,7 @@ Exemple vidéo : https://youtu.be/ux5MgNagxnU
 -------------------------
 
 - Les installations sont prévues sur un système 64-bit (le 32-bit étant
-en train de disparaître). Seules quelques installations scriptées par 
-Jason Bergner prennent en considération l'architecture de l'ordinateur
-pour installer la bonne version (les scripts ont donc été modifiés pour qu'ils
-téléchargent la version correspondant au système).
+en train de disparaître).
 
 - Les installations sont prioritairement faites en français. Certains
 logiciels s'adaptent à la langue du système, mais si le logiciel doit être
