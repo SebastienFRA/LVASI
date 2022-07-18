@@ -9,8 +9,8 @@
 ## MODE EN LIGNE :
 Le mode en ligne permet 2 options :
 
-- Le bouton "**Installer**" (1) : Télécharger et installer directement les logiciels sélectionnés
-- Le bouton "**Télécharger**" (2) : Seulement télécharger les logiciles sélectionnés pour une installation future  
+- Le bouton "**Installer**" (**1**) : Télécharger et installer directement les logiciels sélectionnés
+- Le bouton "**Télécharger**" (**2**) : Seulement télécharger les logiciles sélectionnés pour une installation future  
 _(pratique lorsqu'il s'agit d'installer sur un ordinateur qui n'a pas de connexion internet,  
 ou lorsqu'il faut installer sur plusieurs machines sans devoir re-télécharger à chaque fois)_
 
@@ -30,8 +30,8 @@ Une fenêtre s'affiche alors pour vous signaler que LVASI a terminé.
 
 ## MODE HORS LIGNE :
   
-Le bouton "**Installer**" (4) permet d'installer les logiciels téléchargés plus tôt.  
-Pour activer le bouton "**Installer**", il faut rafraichir à l'aide du petit bouton situé juste au-dessus (3). (Si LVASI ne trouve pas le dossier "**LVASI - Téléchargements**" ou si aucun logiciel n'y est présent, le bouton restera désactivé.  
+Le bouton "**Installer**" (**4**) permet d'installer les logiciels téléchargés plus tôt.  
+Pour activer le bouton "**Installer**", il faut rafraichir à l'aide du petit bouton situé juste au-dessus (**3**). (Si LVASI ne trouve pas le dossier "**LVASI - Téléchargements**" ou si aucun logiciel n'y est présent, le bouton restera désactivé.  
 Seuls les logiciels téléchargés par LVASI sont pris en charge (les noms et formats de fichiers ainsi que les paramètres d'installation sont propres à chaque logiciel).  
 Il est donc important de ne pas renommer, ni déplacer les fichiers téléchargés.  
 Pour que les logiciels soient reconnus par LVASI, le dossier "**LVASI - Téléchargements**" doit se trouver dans le même répertoire que LVASI.exe :  
