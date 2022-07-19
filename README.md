@@ -37,8 +37,8 @@ available.
 - The project is of course in "open-source", you are free to modify it, complete it,
 improve it, etc.
 
-- Feel free to contact me if there are any issues with one or more scripts. Also feel
-free if you want me to add supported software, I'll try to do my best.
+- Feel free to contact me if there are any problems downloading or installing. I will try to solve the problem
+as quickly as possible.
 
 --------------------------------
 CREDITS                      
