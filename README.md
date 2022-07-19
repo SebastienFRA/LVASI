@@ -1,6 +1,6 @@
 # L.V.A.S.I. - Latest Version Auto Silent Install
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/SebastienFRA/LVASI) ![GitHub all releases](https://img.shields.io/github/downloads/SebastienFRA/LVASI/total?color=g) 
+![](https://img.shields.io/badge/Platform-Windows--64-lightgrey) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/SebastienFRA/LVASI) ![GitHub all releases](https://img.shields.io/github/downloads/SebastienFRA/LVASI/total?color=g) 
 ------------------------------------------------------------	
 PRESENTATION 
 ------------------------------------------------------------
