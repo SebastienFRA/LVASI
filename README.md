@@ -6,22 +6,18 @@ Latest Version Auto Silent Install
 PRESENTATION 
 ------------------------------------------------------------
 
-L.V.A.S.I. is a small personal project that responds to a desire:
-To have a tool that allows me to download, install automatically and
-without intervention on my part, the software I need in their latest
-versions. This is to facilitate the acquisition or reinstallation of
-a computer.
+L.V.A.S.I. was born from a desire to have a tool that allows me to download,
+install automatically and without intervention on my part, the software
+I need in their latest versions. This is to facilitate the acquisition
+or reinstallation of a computer.
 
-L.V.A.S.I. works thanks to scripts written under PowerShell 5, and it
-is intended for Windows.
-
-Knowing nothing about it before embarking on this project, I
+Knowing nothing about code before embarking on this project, I
 scoured the internet a lot to find the answers I was looking for.
 I used Jason Bergner's "SilentInstallHQ.com" site a lot.
 
-As of 07/14/2022, 111 softwares are supported
+As of 07/19/2022, 113 softwares are supported. **Get help [here](https://github.com/SebastienFRA/LVASI/blob/main/LVASI%20-%202.1%2B%20-%20HELP.md)** 
 
-![alt text](https://github.com/SebastienFRA/LVASI/blob/main/img/LVASI%202.0.png)
+![alt text](https://github.com/SebastienFRA/LVASI/blob/main/img/LVASI%202.1%2B.png)
 
 [![Demo CountPages alpha](https://github.com/SebastienFRA/LVASI/blob/main/img/Exemple%20LVASI%201.5.gif)](https://youtu.be/ux5MgNagxnU)
 
