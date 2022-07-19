@@ -1,10 +1,10 @@
-#L.V.A.S.I.                                                   
-Latest Version Auto Silent Install
+# L.V.A.S.I. - Latest Version Auto Silent Install
 
-![GitHub all releases](https://img.shields.io/github/downloads/sebastienFRA/LVASI/total?color=a)
-------------------------------------------------------------		  
+![GitHub all releases](https://img.shields.io/github/downloads/sebastienFRA/LVASI/total?color=a)  
+------------------------------------------------------------	
 PRESENTATION 
 ------------------------------------------------------------
+**Version française [ici](https://github.com/SebastienFRA/LVASI/blob/main/LISEZ-MOI.MD)**
 
 L.V.A.S.I. was born from a desire to have a tool that allows me to download,
 install automatically and without intervention on my part, the software
