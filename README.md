@@ -40,6 +40,8 @@ improve it, etc.
 - Feel free to contact me if there are any problems downloading or installing. I will try to solve the problem
 as quickly as possible.
 
+- LVASI works thanks to a PowerShell script that I make executable thanks to WIN-PS2EXE available on Github [here](https://github.com/MScholtes/Win-PS2EXE).
+
 --------------------------------
 CREDITS                      
 --------------------------------
