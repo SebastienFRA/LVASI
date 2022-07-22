@@ -38,6 +38,8 @@ l'améliorer, etc.
 - N'hésitez pas à me contacter s'il y a des problèmes de téléchargemnt ou d'installation. J'essaierai de résoudre le problème
 aussi vite que possible.
 
+- En "mode en ligne ", pour OpenOffice et Geforce Experience, 7-zip est requis. Si vous ne l'avez pas, LVASI l'installe le temps du processus et le désinstalle ensuite.
+
 - LVASI fonctionne grâce à un script PowerShell que je rend exécutable grace à WIN-PS2EXE disponible sur Github [ici](https://github.com/MScholtes/Win-PS2EXE).
 
 --------------------------------
