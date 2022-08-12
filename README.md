@@ -1,6 +1,6 @@
 # L.V.A.S.I. - Latest Version Auto Silent Install
 
-![](https://img.shields.io/badge/Platform-Windows--64-lightgrey) ![GitHub](https://img.shields.io/github/license/SebastienFRA/LVASI?label=License) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/SebastienFRA/LVASI?label=Release) ![GitHub Release Date](https://img.shields.io/github/release-date/SebastienFRA/LVASI?label=Release%20Date) ![GitHub all releases](https://img.shields.io/github/downloads/SebastienFRA/LVASI/total?color=g&label=Github_Downloads)  [![Download LVASI](https://img.shields.io/sourceforge/dt/lvasi.svg?label=SourceForge_Downloads)](https://sourceforge.net/projects/lvasi/files/latest/download)
+![](https://img.shields.io/badge/Platform-Windows--64-lightgrey) ![GitHub](https://img.shields.io/github/license/SebastienFRA/LVASI?label=License) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/SebastienFRA/LVASI?label=Release) ![GitHub Release Date](https://img.shields.io/github/release-date/SebastienFRA/LVASI?label=Release%20Date) ![GitHub all releases](https://img.shields.io/github/downloads/SebastienFRA/LVASI/total?color=g&label=Github%20Downloads)  [![Download LVASI](https://img.shields.io/sourceforge/dt/lvasi.svg?label=SourceForge%20Downloads)](https://sourceforge.net/projects/lvasi/files/latest/download)
 ------------------------------------------------------------	
 PRESENTATION 
 ------------------------------------------------------------
