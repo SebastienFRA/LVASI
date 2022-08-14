@@ -14,7 +14,7 @@ Ne connaissant rien au code avant de me lancer dans ce projet, j'ai
 beaucoup parcouru internet pour trouver les réponses que je cherchais.
 J'ai beaucoup utilisé le site "SilentInstallHQ.com" de Jason Bergner.
 
-Au 22/07/2022, [130 logiciels sont supportés](https://github.com/SebastienFRA/LVASI/blob/main/Liste.md). **Obtenir de l'aide [ici](https://github.com/SebastienFRA/LVASI/blob/main/LVASI%20-%202.1%2B%20-%20AIDE.md)** 
+Au 14/08/2022, [142 logiciels sont supportés](https://github.com/SebastienFRA/LVASI/blob/main/Liste.md). **Obtenir de l'aide [ici](https://github.com/SebastienFRA/LVASI/blob/main/LVASI%20-%202.1%2B%20-%20AIDE.md)** 
 
 [![Demo CountPages alpha](https://github.com/SebastienFRA/LVASI/blob/main/img/LVASI%202.3.gif)](https://youtu.be/ux5MgNagxnU)
 
