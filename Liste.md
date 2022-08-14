@@ -1,5 +1,6 @@
-# (En) LIST OF SUPPORTED SOFTWARES  *(130 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(130 au total)*
-<span style="color:green">*[(En) : last release : 07/26/2022 - (Fr) : Dernière version : 26/07/2022]*</span>.
+# (En) LIST OF SUPPORTED SOFTWARES  *(142 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(142 au total)*
+<span style="color:green">*[(En) : last release : 07/26/2022 - (Fr) : Dernière version : 26/07/2022]*</span>.  
+<img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" /> = *Microsoft Store Application*
 ### + (En) Compression - (Fr) Compression :
 - 7-Zip
 - Bandizip
@@ -8,6 +9,7 @@
 ### + (En) Documents - (Fr) Documents :
 - Calibre
 - Evernote
+- HomeBank
 - Joplin
 - LibreOffice
 - MaxiCompte
@@ -21,6 +23,7 @@
 - Celestia
 - GCompris
 - GeoGebra
+- Klavaro
 - Qalculate!
 - Stellarium
 
@@ -57,31 +60,40 @@
 - WhatsApp
 - Zoom
 
-### + (En) Media - (Fr) Média :
-- 4K Video Downloader
+### + (En) Audio - (Fr) Audio :
+- Amazon Music <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - Audacity
 - Clementine
 - Deezer
-- HandBrake
 - iTunes
+- MediaMonkey
+- MusicBee 3.4.2
+- Spotify
+- TuneIn
+- Winamp
+- Youtube Music
+
+### + (En) Video - (Fr) Vidéo :
+- 4K Video Downloader
+- Disney + <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
+- HandBrake
 - K-Lite Codec Pack (basic, standard, mega)
 - Kodi
-- MediaMonkey
 - MediaPlayerClassic-BE
 - MediaPlayerClassic-HC
 - MKVToolNix
-- MusicBee 3.4.2
+- Netflix <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - OBS Studio
 - Openshot
 - Plex Media Server
+- Prime Video <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - ScreenToGif
 - ShareX
 - Shotcut
 - VLC
-- Winamp
-- Youtube Music
 
 ### + (En) 3D - (Fr) 3D :
+- 3D Builder <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - Blender
 - Cura
 - FreeCAD
@@ -104,6 +116,7 @@
 - NotePad++
 - Putty
 - Visual Studio Codec
+- WinGet
 - WinSCP
 
 ### + (En) Safety / Health - (Fr) Sécurité / Santé :
@@ -121,9 +134,11 @@
 - Wide Disk Manager
 
 ### + (En) Downloads - (Fr) Téléchargements :
+- Deluge
 - Free Download Manager
 - JDownloader
 - qBittorrent
+- Transmission
 
 ### + (En) Cloud - (Fr) Cloud :
 - Google Drive
@@ -136,6 +151,7 @@
 - BalenaEtcher
 - CDBurnerXP
 - Everything
+- HP Smart <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - IObit Driver Booster
 - KDEConnect
 - MediaInfo
