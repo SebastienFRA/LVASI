@@ -23,6 +23,8 @@ As of 08/14/2022, [142 softwares are supported](https://github.com/SebastienFRA/
 NOTES 
 -------------------------
 
+- ⚠ Sometimes Windows detects LVASI as unwanted (not systematically). It's a false positive, I don't know why but nothing in the code is malicious. LVASI only downloads installation files from official sources and nothing else. Maybe because of checking for an LVASI update on startup? I don't have the answer yet.
+
 - Installations are planned on a 64-bit system (32-bit being phased out).
 
 - The installations are primarily made in French. Some software adapts to the language
