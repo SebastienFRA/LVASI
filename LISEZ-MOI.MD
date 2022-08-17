@@ -22,7 +22,7 @@ Au 14/08/2022, [142 logiciels sont supportés](https://github.com/SebastienFRA/L
 NOTES 
 -------------------------
 
-- Il arrive que Windows détecte LVASI comme indésirable (pas systématiquement). C'est un faux positif, je ne sais pas pourquoi mais rien dans le code n'est malveillant. LVASI se contente de télécahrger les fichier d'installation depuis les sources officielles et rien d'autre. Peut-être à cause de la vérification d'une mise à jour de LVASI au démarrage ?  Je n'ai pas encore la réponse.
+- ⚠ Il arrive que Windows détecte LVASI comme indésirable (pas systématiquement). C'est un faux positif, je ne sais pas pourquoi mais rien dans le code n'est malveillant. LVASI se contente de télécahrger les fichier d'installation depuis les sources officielles et rien d'autre. Peut-être à cause de la vérification d'une mise à jour de LVASI au démarrage ?  Je n'ai pas encore la réponse.
 
 - LVASI n'est compatible qu'avec les systèmes 64bit.
 
