@@ -51,3 +51,5 @@ Remerciements particuliers à Jason Bergner pour son travail partagé sur son si
 https://silentinstallhq.com/
 
 L'auteur du projet, moi-même : Sébastien FRANCOIS
+
+<a href='https://ko-fi.com/V7V7EJIL4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
