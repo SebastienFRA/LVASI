@@ -52,4 +52,6 @@ CREDITS
 Special thanks to Jason Bergner for his shared work on his website:
 https://silentinstallhq.com/
 
-The author, myself, Sébastien FRANCOIS
+The author, myself, Sébastien FRANCOIS  
+  
+  <a href='https://ko-fi.com/V7V7EJIL4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
