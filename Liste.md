@@ -1,177 +1,183 @@
-# (En) LIST OF SUPPORTED SOFTWARES  *(142 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(142 au total)*
+# (En) LIST OF SUPPORTED SOFTWARES  *(148 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(148 au total)*
 <span style="color:green">*[(En) : last release : 08/14/2022 - (Fr) : Dernière version : 14/08/2022]*</span>.  
 <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" /> = *Microsoft Store Application*
 ### + (En) Compression - (Fr) Compression :
-- 7-Zip
-- Bandizip
-- Peazip
+- [7-Zip](https://www.7-zip.org/)
+- [Bandizip](https://www.bandisoft.com/bandizip/)
+- [Peazip](https://peazip.github.io/)
 
 ### + (En) Documents - (Fr) Documents :
-- Calibre
-- Evernote
-- HomeBank
-- Joplin
-- LibreOffice
-- MaxiCompte
-- OpenOffice
-- PDFCreator
-- Sigil
-- SumatraPDF
-- TeamWorks
+- [Calibre](https://calibre-ebook.com/)
+- [Draw.io](https://github.com/jgraph/drawio)
+- [Evernote](https://evernote.com)
+- [HomeBank](http://homebank.free.fr)
+- [Joplin](https://joplinapp.org/)
+- [LibreOffice](https://www.libreoffice.org/)
+- [MaxiCompte](https://www.maxicompte.com/)
+- [OpenOffice](https://www.openoffice.org)
+- [PDFCreator](https://www.pdfforge.org/pdfcreator)
+- [Sigil](https://sigil-ebook.com/)
+- [SumatraPDF](https://www.sumatrapdfreader.org)
+- [TeamWorks](https://www.teamworks.ovh/)
 
 ### + (En) Education - (Fr) Éducation :
-- Celestia
-- GCompris
-- GeoGebra
-- Klavaro
-- Qalculate!
-- Stellarium
+- [Celestia](https://celestia.space/)
+- [GCompris](https://gcompris.net)
+- [GeoGebra](https://www.geogebra.org/)
+- [Klavaro](https://klavaro.sourceforge.io)
+- [Qalculate!](https://qalculate.github.io/)
+- [Stellarium](https://stellarium.org)
 
 ### + (En) Games - (Fr) Jeux :
-- BlueStacks 4
-- Epic Game Store
-- GeForce Experience
-- GeForce Now
-- GOG Galaxy
-- NoxPlayer
-- Origin
-- PlayNite
-- RetroArch
-- RomStation
-- Steam
+- [BlueStacks 4](https://www.bluestacks.com)
+- [Epic Game Store](https://store.epicgames.com)
+- [GeForce Experience](https://www.nvidia.com/fr-fr/geforce/geforce-experience/)
+- [GeForce Now](https://www.nvidia.com/fr-fr/geforce-now/)
+- [GOG Galaxy](https://www.gog.com/galaxy)
+- [NoxPlayer](https://www.bignox.com/)
+- [Origin](https://www.origin.com)
+- [PlayNite](https://playnite.link/)
+- [RetroArch](https://www.retroarch.com/)
+- [RomStation](https://www.romstation.fr/)
+- [Steam](https://store.steampowered.com/)
+- [Xbox](https://www.xbox.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 
 ### + (En) Pictures - (Fr) Images :
-- FileOptimizer
-- Gimp
-- ImageGlass
-- Inkscape
-- Krita
-- XnView
+- [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
+- [Gimp](https://www.gimp.org/)
+- [ImageGlass](https://imageglass.org/)
+- [Inkscape](https://inkscape.org/)
+- [Krita](https://krita.org)
+- [XnView](https://www.xnview.com)
 
 ### + (En) Messaging - (Fr) Messageries :
-- Android Messages Desktop
-- Discord
-- Signal
-- Slack
-- Telegram
-- Thunderbird
-- Tweeten
-- Viber
-- WhatsApp
-- Zoom
+- [Android Messages Desktop](https://github.com/chrisknepper/android-messages-desktop)
+- [Caprine](https://sindresorhus.com/caprine/)
+- [Discord](https://discord.com/)
+- [Facebook Messenger](https://www.messenger.com/)
+- [Ferdi](https://getferdi.com/)
+- [Signal](https://signal.org/)
+- [Slack](https://slack.com)
+- [Telegram](https://desktop.telegram.org/)
+- [Thunderbird](https://www.thunderbird.net)
+- [Tweeten](https://tweetenapp.com/)
+- [Viber](https://www.viber.com)
+- [WhatsApp](https://www.whatsapp.com)
+- [Zoom](https://zoom.us/)
 
 ### + (En) Audio - (Fr) Audio :
-- Amazon Music <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
-- Audacity
-- Clementine
-- Deezer
-- iTunes
-- MediaMonkey
-- MusicBee 3.4.2
-- Spotify
-- TuneIn
-- Winamp
-- Youtube Music
+- [Amazon Music](https://www.amazon.fr/music/prime) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
+- [Audacity](https://www.audacityteam.org/)
+- [Clementine](https://www.clementine-player.org)
+- [Deezer](https://www.deezer.com)
+- [iTunes](https://www.apple.com/itunes/)
+- [MediaMonkey](https://www.mediamonkey.com/)
+- [MusicBee](https://www.getmusicbee.com/) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
+- [Spotify](https://www.spotify.com)
+- [TuneIn](https://tunein.com/)
+- [Winamp](https://www.winamp.com/)
+- [Youtube Music](https://music.youtube.com/)
 
 ### + (En) Video - (Fr) Vidéo :
-- 4K Video Downloader
-- Disney + <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
-- HandBrake
-- K-Lite Codec Pack (basic, standard, mega)
-- Kodi
-- MediaPlayerClassic-BE
-- MediaPlayerClassic-HC
-- MKVToolNix
-- Netflix <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
-- OBS Studio
-- Openshot
-- Plex Media Server
-- Prime Video <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
-- ScreenToGif
-- ShareX
-- Shotcut
-- VLC
+- [4K Video Downloader](https://www.4kdownload.com)
+- [Disney +](https://www.disneyplus.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
+- [HandBrake](https://handbrake.fr)
+- [K-Lite Codec Pack (basic, standard, mega)](https://codecguide.com/)
+- [Kodi](https://kodi.tv/)
+- [MediaPlayerClassic-BE](https://mpc-hc.org/)
+- [MediaPlayerClassic-HC](https://github.com/Aleksoid1978/MPC-BE)
+- [MKVToolNix](https://mkvtoolnix.download/index.html)
+- [Netflix](https://www.netflix.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
+- [OBS Studio](https://obsproject.com)
+- [Openshot](https://www.openshot.org)
+- [Plex Media Server](https://www.plex.tv/)
+- [Prime Video](https://www.primevideo.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
+- [ScreenToGif](https://www.screentogif.com/)
+- [ShareX](https://getsharex.com)
+- [Shotcut](https://shotcut.org/)
+- [VLC](https://www.videolan.org)
 
 ### + (En) 3D - (Fr) 3D :
-- 3D Builder <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
-- Blender
-- Cura
-- FreeCAD
-- Fusion360
-- ideaMaker
-- Lychee Slicer
-- PrusaSlicer
+- [3D Builder](https://www.microsoft.com/store/productId/9WZDNCRFJ3T6) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
+- [Blender](https://www.blender.org/)
+- [Cura](https://ultimaker.com/software/ultimaker-cura)
+- [FreeCAD](https://www.freecadweb.org)
+- [Fusion360](https://www.autodesk.fr/products/fusion-360)
+- [ideaMaker](https://www.raise3d.com/ideamaker/)
+- [Lychee Slicer](https://mango3d.io/lychee-slicer-for-sla-3d-printers/)
+- [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
 
 ### + (En) Web browsers - (Fr) Navigateurs internet : 
-- Brave
-- Chrome
-- Firefox
-- Opera
-- Vivaldi
+- [Brave](https://brave.com)
+- [Chrome](https://www.google.com/intl/fr/chrome/)
+- [Firefox](https://www.mozilla.org)
+- [Opera](https://www.opera.com)
+- [Vivaldi](https://vivaldi.com)
 
 ### + (En) Developers - (Fr) Développeurs :
-- DirectX
-- FileZilla
-- Github Desktop
-- NotePad++
-- Putty
-- Visual Studio Codec
-- WinGet
-- WinSCP
+- [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+- [FileZilla](https://filezilla-project.org/)
+- [Github Desktop](https://desktop.github.com/)
+- [NotePad++](https://notepad-plus-plus.org/)
+- [Putty](https://www.putty.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [WinGet](https://github.com/microsoft/winget-cli)
+- [WinSCP](https://winscp.net)
 
 ### + (En) Safety / Health - (Fr) Sécurité / Santé :
-- ADWCleaner
-- AVG Free
-- Bitwarden
-- Bleachbit
-- CCleaner
-- Glary Utilities
-- KeePass 2.x
-- Malwarebytes
-- NordVPN
-- Spybot
-- VeraCrypt
-- Wide Disk Manager
+- [ADWCleaner](https://fr.malwarebytes.com/adwcleaner/)
+- [AVG Free](https://www.avg.com)
+- [Bitwarden](https://bitwarden.com/)
+- [Bleachbit](https://www.bleachbit.org/)
+- [CCleaner](https://www.ccleaner.com)
+- [Glary Utilities](https://www.glarysoft.com/)
+- [KeePass 2.x](https://keepass.info/)
+- [Malwarebytes](https://www.malwarebytes.com/)
+- [NordVPN](https://nordvpn.com)
+- [Spybot](https://www.safer-networking.org/)
+- [VeraCrypt](https://veracrypt.fr)
+- [Wise Disk Manager](https://www.wisecleaner.com/wise-disk-cleaner.html)
 
 ### + (En) Downloads - (Fr) Téléchargements :
-- Deluge
-- Free Download Manager
-- JDownloader
-- qBittorrent
-- Transmission
+- [Deluge](https://deluge-torrent.org/)
+- [Free Download Manager](https://www.freedownloadmanager.org)
+- [JDownloader](https://jdownloader.org/)
+- [qBittorrent](https://www.qbittorrent.org/)
+- [Transmission](https://transmissionbt.com/)
 
 ### + (En) Cloud - (Fr) Cloud :
-- Google Drive
-- MEGAsync
-- Nextcloud
-- ownCloud
-- SyncTrayzor
+- [Google Drive](https://drive.google.com)
+- [MEGAsync](https://mega.nz/desktop)
+- [Nextcloud](https://nextcloud.com/)
+- [ownCloud](https://owncloud.com)
+- [SyncTrayzor](https://syncthing.net/)
 
 ### + (En) Tools - (Fr) Outils :
-- BalenaEtcher
-- CDBurnerXP
-- Everything
-- HP Smart <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
-- IObit Driver Booster
-- KDEConnect
-- MediaInfo
-- NetLimiter
-- PushBullet
-- QTTabBar
-- RaspberryPiImager
-- Recuva
-- RevoUninstaller
-- Speccy
-- TeamViewer
-- VirtualBox
+- [BalenaEtcher](https://www.balena.io/etcher/)
+- [BurnAware](https://www.burnaware.com/)
+- [CDBurnerXP](https://cdburnerxp.se)
+- [Everything](https://www.voidtools.com/)
+- [HP Smart](https://www.hpsmart.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
+- [IObit Driver Booster](https://www.iobit.com/fr/driver-booster.php)
+- [KDEConnect](https://kdeconnect.kde.org/)
+- [MediaInfo](https://mediaarea.net/MediaInfo)
+- [NetLimiter](https://www.netlimiter.com/)
+- [PushBullet](https://www.pushbullet.com/)
+- [QTTabBar](http://qttabbar.wikidot.com/)
+- [RaspberryPiImager](https://www.raspberrypi.com/software/)
+- [Recuva](https://www.ccleaner.com/recuva)
+- [RevoUninstaller](https://www.revouninstaller.com/)
+- [Speccy](https://www.ccleaner.com/speccy)
+- [TeamViewer](https://www.teamviewer.com)
+- [VirtualBox](https://www.virtualbox.org/)
 
 ### + (En) Tweaks - (Fr) Améliorations
 
-- Files
-- Ksnip
-- LightBulb
-- ModerFlyouts
-- OpenShell
-- PowerToys
-- QuickLook
-- WinaeroTweaker
+- [Files](https://files.community/)
+- [Ksnip](https://github.com/ksnip/ksnip)
+- [LightBulb](https://github.com/Tyrrrz/LightBulb)
+- [ModerFlyouts](https://modernflyouts-community.github.io/)
+- [OpenShell](https://open-shell.github.io/Open-Shell-Menu/)
+- [PowerToys](https://docs.microsoft.com/windows/powertoys/)
+- [QuickLook](https://github.com/QL-Win/QuickLook)
+- [WinaeroTweaker](https://winaerotweaker.com/)
