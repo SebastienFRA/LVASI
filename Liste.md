@@ -1,5 +1,5 @@
-# (En) LIST OF SUPPORTED SOFTWARES  *(148 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(148 au total)*
-<span style="color:green">*[(En) : last release : 08/21/2022 - (Fr) : Dernière version : 21/08/2022]*</span>.  
+# (En) LIST OF SUPPORTED SOFTWARES  *(170 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(170 au total)*
+<span style="color:green">*[(En) : last release : 08/26/2022 - (Fr) : Dernière version : 26/08/2022]*</span>.  
 <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" /> = *Microsoft Store Application*
 ### + (En) Compression - (Fr) Compression :
 - [7-Zip](https://www.7-zip.org/)
@@ -13,8 +13,11 @@
 - [HomeBank](http://homebank.free.fr)
 - [Joplin](https://joplinapp.org/)
 - [LibreOffice](https://www.libreoffice.org/)
+- [Kindle PC](https://www.amazon.fr/gp/browse.html?node=22792414031)
+- [Kobo Desktop](https://www.kobo.com/fr/fr/p/desktop)
 - [MaxiCompte](https://www.maxicompte.com/)
 - [OpenOffice](https://www.openoffice.org)
+- [PDF24 Creator](https://www.pdf24.org)
 - [PDFCreator](https://www.pdfforge.org/pdfcreator)
 - [Sigil](https://sigil-ebook.com/)
 - [SumatraPDF](https://www.sumatrapdfreader.org)
@@ -48,6 +51,7 @@
 - [ImageGlass](https://imageglass.org/)
 - [Inkscape](https://inkscape.org/)
 - [Krita](https://krita.org)
+- [PhotoFiltre](http://www.photofiltre-studio.com/)
 - [XnView](https://www.xnview.com)
 
 ### + (En) Messaging - (Fr) Messageries :
@@ -72,8 +76,10 @@
 - [Deezer](https://www.deezer.com)
 - [iTunes](https://www.apple.com/itunes/)
 - [MediaMonkey](https://www.mediamonkey.com/)
+- [MuseScore](https://musescore.org)
 - [MusicBee](https://www.getmusicbee.com/) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [Spotify](https://www.spotify.com)
+- [Strawberry](https://www.strawberrymusicplayer.org/)
 - [TuneIn](https://tunein.com/)
 - [Winamp](https://www.winamp.com/)
 - [Youtube Music](https://music.youtube.com/)
@@ -83,6 +89,7 @@
 - [Disney +](https://www.disneyplus.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [HandBrake](https://handbrake.fr)
 - [K-Lite Codec Pack (basic, standard, mega)](https://codecguide.com/)
+- [Kdenlive](https://kdenlive.org)
 - [Kodi](https://kodi.tv/)
 - [MediaPlayerClassic-BE](https://mpc-hc.org/)
 - [MediaPlayerClassic-HC](https://github.com/Aleksoid1978/MPC-BE)
@@ -106,20 +113,26 @@
 - [ideaMaker](https://www.raise3d.com/ideamaker/)
 - [Lychee Slicer](https://mango3d.io/lychee-slicer-for-sla-3d-printers/)
 - [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
+- [Sweet Home 3D](http://www.sweethome3d.com/)
 
 ### + (En) Web browsers - (Fr) Navigateurs internet : 
 - [Brave](https://brave.com)
 - [Chrome](https://www.google.com/intl/fr/chrome/)
+- [Chromium](https://chromium.woolyss.com/#browsers)
 - [Firefox](https://www.mozilla.org)
 - [Opera](https://www.opera.com)
+- [Thor](https://www.torproject.org)
 - [Vivaldi](https://vivaldi.com)
+- [Waterfox](https://www.waterfox.net/)
 
 ### + (En) Developers - (Fr) Développeurs :
 - [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 - [FileZilla](https://filezilla-project.org/)
 - [Github Desktop](https://desktop.github.com/)
+- [Godot Engine](https://godotengine.org/)
 - [NotePad++](https://notepad-plus-plus.org/)
 - [Putty](https://www.putty.org/)
+- [Python](https://www.python.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [WinGet](https://github.com/microsoft/winget-cli)
 - [WinSCP](https://winscp.net)
@@ -130,6 +143,7 @@
 - [Bitwarden](https://bitwarden.com/)
 - [Bleachbit](https://www.bleachbit.org/)
 - [CCleaner](https://www.ccleaner.com)
+- [ExpressVPN](https://www.expressvpn.com)
 - [Glary Utilities](https://www.glarysoft.com/)
 - [KeePass 2.x](https://keepass.info/)
 - [Malwarebytes](https://www.malwarebytes.com/)
@@ -157,22 +171,28 @@
 - [BurnAware](https://www.burnaware.com/)
 - [CDBurnerXP](https://cdburnerxp.se)
 - [Everything](https://www.voidtools.com/)
+- [Flameshot](https://flameshot.org/)
 - [HP Smart](https://www.hpsmart.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
-- [IObit Driver Booster](https://www.iobit.com/fr/driver-booster.php)
 - [KDEConnect](https://kdeconnect.kde.org/)
 - [MediaInfo](https://mediaarea.net/MediaInfo)
 - [NetLimiter](https://www.netlimiter.com/)
+- [Parsec](https://parsec.app/)
 - [PushBullet](https://www.pushbullet.com/)
+- [QTranslate](https://quest-app.appspot.com/home)
 - [QTTabBar](http://qttabbar.wikidot.com/)
 - [RaspberryPiImager](https://www.raspberrypi.com/software/)
 - [Recuva](https://www.ccleaner.com/recuva)
+- [Rescuezilla](https://rescuezilla.com/)
 - [RevoUninstaller](https://www.revouninstaller.com/)
+- [Rufus](https://rufus.ie)
+- [Snappy Driver Installer Origin](https://www.snappy-driver-installer.org/)
 - [Speccy](https://www.ccleaner.com/speccy)
 - [TeamViewer](https://www.teamviewer.com)
 - [VirtualBox](https://www.virtualbox.org/)
 
 ### + (En) Tweaks - (Fr) Améliorations
 
+- [CopyQ](https://hluk.github.io/CopyQ/)
 - [Files](https://files.community/)
 - [Ksnip](https://github.com/ksnip/ksnip)
 - [LightBulb](https://github.com/Tyrrrz/LightBulb)
@@ -180,4 +200,6 @@
 - [OpenShell](https://open-shell.github.io/Open-Shell-Menu/)
 - [PowerToys](https://docs.microsoft.com/windows/powertoys/)
 - [QuickLook](https://github.com/QL-Win/QuickLook)
+- [Rainmeter](https://www.rainmeter.net/)
+- [TeraCopy](https://codesector.com/teracopy)
 - [WinaeroTweaker](https://winaerotweaker.com/)
