@@ -43,6 +43,8 @@ aussi vite que possible.
 
 - LVASI fonctionne grâce à un script PowerShell que je rend exécutable grace à WIN-PS2EXE disponible sur Github [ici](https://github.com/MScholtes/Win-PS2EXE).
 
+- L'icône de LVASI provient du site flaticon [ici](https://www.flaticon.com/free-icon/software_4196389)
+
 --------------------------------
 CREDITS                      
 --------------------------------
