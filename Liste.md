@@ -1,9 +1,11 @@
-# (En) LIST OF SUPPORTED SOFTWARES  *(170 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(170 au total)*
-<span style="color:green">*[(En) : last release : 08/26/2022 - (Fr) : Dernière version : 26/08/2022]*</span>.  
+# (En) LIST OF SUPPORTED SOFTWARES  *(180 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(180 au total)*
+<span style="color:green">*[(En) : last release : 08/27/2022 - (Fr) : Dernière version : 27/08/2022]*</span>.  
 <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" /> = *Microsoft Store Application*
 ### + (En) Compression - (Fr) Compression :
 - [7-Zip](https://www.7-zip.org/)
 - [Bandizip](https://www.bandisoft.com/bandizip/)
+- [Caesium Image Compressor](https://saerasoft.com/caesium/)
+- [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
 - [Peazip](https://peazip.github.io/)
 
 ### + (En) Documents - (Fr) Documents :
@@ -25,9 +27,11 @@
 
 ### + (En) Education - (Fr) Éducation :
 - [Celestia](https://celestia.space/)
+- [CircuitJS1](http://www.falstad.com/circuit/)
 - [GCompris](https://gcompris.net)
 - [GeoGebra](https://www.geogebra.org/)
 - [Klavaro](https://klavaro.sourceforge.io)
+- [OpenBoard](https://openboard.ch/)
 - [Qalculate!](https://qalculate.github.io/)
 - [Stellarium](https://stellarium.org)
 
@@ -46,7 +50,6 @@
 - [Xbox](https://www.xbox.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 
 ### + (En) Pictures - (Fr) Images :
-- [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
 - [Gimp](https://www.gimp.org/)
 - [ImageGlass](https://imageglass.org/)
 - [Inkscape](https://inkscape.org/)
@@ -96,13 +99,16 @@
 - [MKVToolNix](https://mkvtoolnix.download/index.html)
 - [Netflix](https://www.netflix.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [OBS Studio](https://obsproject.com)
+- [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui)
 - [Openshot](https://www.openshot.org)
 - [Plex Media Server](https://www.plex.tv/)
 - [Prime Video](https://www.primevideo.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [ScreenToGif](https://www.screentogif.com/)
 - [ShareX](https://getsharex.com)
 - [Shotcut](https://shotcut.org/)
+- [Shutter Encoder](https://www.shutterencoder.com/)
 - [VLC](https://www.videolan.org)
+- [vokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html)
 
 ### + (En) 3D - (Fr) 3D :
 - [3D Builder](https://www.microsoft.com/store/productId/9WZDNCRFJ3T6) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
@@ -142,6 +148,7 @@
 - [AVG Free](https://www.avg.com)
 - [Bitwarden](https://bitwarden.com/)
 - [Bleachbit](https://www.bleachbit.org/)
+- [Buttercup](https://buttercup.pw/)
 - [CCleaner](https://www.ccleaner.com)
 - [ExpressVPN](https://www.expressvpn.com)
 - [Glary Utilities](https://www.glarysoft.com/)
@@ -170,6 +177,7 @@
 - [BalenaEtcher](https://www.balena.io/etcher/)
 - [BurnAware](https://www.burnaware.com/)
 - [CDBurnerXP](https://cdburnerxp.se)
+- [DriverStore Explorer](https://github.com/lostindark/DriverStoreExplorer)
 - [Everything](https://www.voidtools.com/)
 - [Flameshot](https://flameshot.org/)
 - [HP Smart](https://www.hpsmart.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
@@ -192,6 +200,7 @@
 
 ### + (En) Tweaks - (Fr) Améliorations
 
+- [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)
 - [CopyQ](https://hluk.github.io/CopyQ/)
 - [Files](https://files.community/)
 - [Ksnip](https://github.com/ksnip/ksnip)
@@ -203,3 +212,4 @@
 - [Rainmeter](https://www.rainmeter.net/)
 - [TeraCopy](https://codesector.com/teracopy)
 - [WinaeroTweaker](https://winaerotweaker.com/)
+- [WPD](https://wpd.app/)
