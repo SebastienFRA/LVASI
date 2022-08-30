@@ -46,6 +46,25 @@ as quickly as possible.
 - LVASI works thanks to a PowerShell script that I make executable thanks to WIN-PS2EXE available on Github [here](https://github.com/MScholtes/Win-PS2EXE).
 
 - The LVASI icon comes from the flaticon site [here](https://www.flaticon.com/free-icon/software_4196389)
+
+-------------------------
+IN CASE OF PROBLEM :
+-------------------------
+
+LVASI creates a log file named "LVASI_logfile.txt" where the errors it encounters are written, you can take a look at it or send it to me by reporting the errors you encounter. Unfortunately, sometimes downloads and installations do not work without LVASI reporting an error.
+- If software does not install / download:
+   - The download may simply have failed. ➡ Restarting the installation / downloading of the software may be sufficient.
+   - Download link fetching by LVASI may be outdated. ➡ Notify me of the software that is causing the problem so that I can rectify it.
+
+- If the downloaded software weighs only a few KB (its installation will therefore not work):
+   - Download link fetching by LVASI may be outdated. ➡ Notify me of the software that is causing the problem so that I can rectify it.
+
+- To report an error, you can:
+   - Open an issue [here](https://github.com/SebastienFRA/LVASI/issues), it allows everyone to see that someone has already posted the problem encountered.
+   - Contact me by [mail](mailto:sebastien.lvasi@gmail.com)
+   - Contact me via [Twitter](https://twitter.com/Puma_n)
+
+
 --------------------------------
 CREDITS                      
 --------------------------------
