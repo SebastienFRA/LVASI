@@ -1,5 +1,5 @@
-# (En) LIST OF SUPPORTED SOFTWARES  *(180 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(180 au total)*
-<span style="color:green">*[(En) : last release : 08/27/2022 - (Fr) : Dernière version : 27/08/2022]*</span>.  
+# (En) LIST OF SUPPORTED SOFTWARES  *(194 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(194 au total)*
+<span style="color:green">*[(En) : last release : 08/30/2022 - (Fr) : Dernière version : 30/08/2022]*</span>.  
 <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" /> = *Microsoft Store Application*
 ### + (En) Compression - (Fr) Compression :
 - [7-Zip](https://www.7-zip.org/)
@@ -28,6 +28,7 @@
 ### + (En) Education - (Fr) Éducation :
 - [Celestia](https://celestia.space/)
 - [CircuitJS1](http://www.falstad.com/circuit/)
+- [Converter NOW](https://github.com/ferraridamiano/ConverterNOW)
 - [GCompris](https://gcompris.net)
 - [GeoGebra](https://www.geogebra.org/)
 - [Klavaro](https://klavaro.sourceforge.io)
@@ -37,6 +38,7 @@
 
 ### + (En) Games - (Fr) Jeux :
 - [BlueStacks 4](https://www.bluestacks.com)
+- [DS4Windows](https://docs.ds4windows.app/)
 - [Epic Game Store](https://store.epicgames.com)
 - [GeForce Experience](https://www.nvidia.com/fr-fr/geforce/geforce-experience/)
 - [GeForce Now](https://www.nvidia.com/fr-fr/geforce-now/)
@@ -47,6 +49,7 @@
 - [RetroArch](https://www.retroarch.com/)
 - [RomStation](https://www.romstation.fr/)
 - [Steam](https://store.steampowered.com/)
+- [Ubisoft Connect](https://ubisoftconnect.com)
 - [Xbox](https://www.xbox.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 
 ### + (En) Pictures - (Fr) Images :
@@ -54,11 +57,13 @@
 - [ImageGlass](https://imageglass.org/)
 - [Inkscape](https://inkscape.org/)
 - [Krita](https://krita.org)
+- [MyPaint](http://mypaint.org/about/)
 - [PhotoFiltre](http://www.photofiltre-studio.com/)
 - [XnView](https://www.xnview.com)
 
 ### + (En) Messaging - (Fr) Messageries :
 - [Android Messages Desktop](https://github.com/chrisknepper/android-messages-desktop)
+- [Betterbird](https://www.betterbird.eu/index.html)
 - [Caprine](https://sindresorhus.com/caprine/)
 - [Discord](https://discord.com/)
 - [Facebook Messenger](https://www.messenger.com/)
@@ -77,6 +82,7 @@
 - [Audacity](https://www.audacityteam.org/)
 - [Clementine](https://www.clementine-player.org)
 - [Deezer](https://www.deezer.com)
+- [Dopamine](https://digimezzo.com/software/)
 - [iTunes](https://www.apple.com/itunes/)
 - [MediaMonkey](https://www.mediamonkey.com/)
 - [MuseScore](https://musescore.org)
@@ -103,6 +109,7 @@
 - [Openshot](https://www.openshot.org)
 - [Plex Media Server](https://www.plex.tv/)
 - [Prime Video](https://www.primevideo.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
+- [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/)
 - [ScreenToGif](https://www.screentogif.com/)
 - [ShareX](https://getsharex.com)
 - [Shotcut](https://shotcut.org/)
@@ -110,7 +117,7 @@
 - [VLC](https://www.videolan.org)
 - [vokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html)
 
-### + (En) 3D - (Fr) 3D :
+### + (En) 3D / Creation - (Fr) 3D / Création :
 - [3D Builder](https://www.microsoft.com/store/productId/9WZDNCRFJ3T6) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [Blender](https://www.blender.org/)
 - [Cura](https://ultimaker.com/software/ultimaker-cura)
@@ -118,7 +125,9 @@
 - [Fusion360](https://www.autodesk.fr/products/fusion-360)
 - [ideaMaker](https://www.raise3d.com/ideamaker/)
 - [Lychee Slicer](https://mango3d.io/lychee-slicer-for-sla-3d-printers/)
+- [pCon.planner](https://pcon-planner.com/en/3d-room-planner/)
 - [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
+- [Seamly2D](https://github.com/FashionFreedom/Seamly2D)
 - [Sweet Home 3D](http://www.sweethome3d.com/)
 
 ### + (En) Web browsers - (Fr) Navigateurs internet : 
@@ -136,7 +145,9 @@
 - [FileZilla](https://filezilla-project.org/)
 - [Github Desktop](https://desktop.github.com/)
 - [Godot Engine](https://godotengine.org/)
+- [Inno Setup](https://jrsoftware.org/)
 - [NotePad++](https://notepad-plus-plus.org/)
+- [Obsidian](https://obsidian.md/)
 - [Putty](https://www.putty.org/)
 - [Python](https://www.python.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -161,6 +172,7 @@
 
 ### + (En) Downloads - (Fr) Téléchargements :
 - [Deluge](https://deluge-torrent.org/)
+- [DownZemAll](https://setvisible.github.io/DownZemAll/)
 - [Free Download Manager](https://www.freedownloadmanager.org)
 - [JDownloader](https://jdownloader.org/)
 - [qBittorrent](https://www.qbittorrent.org/)
@@ -174,9 +186,11 @@
 - [SyncTrayzor](https://syncthing.net/)
 
 ### + (En) Tools - (Fr) Outils :
+- [AnyBurn](http://www.anyburn.com/index.htm)
 - [BalenaEtcher](https://www.balena.io/etcher/)
 - [BurnAware](https://www.burnaware.com/)
 - [CDBurnerXP](https://cdburnerxp.se)
+- [Crow Translate](https://crow-translate.github.io/)
 - [DriverStore Explorer](https://github.com/lostindark/DriverStoreExplorer)
 - [Everything](https://www.voidtools.com/)
 - [Flameshot](https://flameshot.org/)
