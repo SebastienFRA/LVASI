@@ -1,5 +1,5 @@
-# (En) LIST OF SUPPORTED SOFTWARES  *(194 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(194 au total)*
-<span style="color:green">*[(En) : last release : 08/30/2022 - (Fr) : Dernière version : 30/08/2022]*</span>.  
+# (En) LIST OF SUPPORTED SOFTWARES  *(202 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(202 au total)*
+<span style="color:green">*[(En) : last release : 09/01/2022 - (Fr) : Dernière version : 01/09/2022]*</span>.  
 <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" /> = *Microsoft Store Application*
 ### + (En) Compression - (Fr) Compression :
 - [7-Zip](https://www.7-zip.org/)
@@ -19,6 +19,7 @@
 - [Kobo Desktop](https://www.kobo.com/fr/fr/p/desktop)
 - [MaxiCompte](https://www.maxicompte.com/)
 - [OpenOffice](https://www.openoffice.org)
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
 - [PDF24 Creator](https://www.pdf24.org)
 - [PDFCreator](https://www.pdfforge.org/pdfcreator)
 - [Sigil](https://sigil-ebook.com/)
@@ -68,6 +69,8 @@
 - [Discord](https://discord.com/)
 - [Facebook Messenger](https://www.messenger.com/)
 - [Ferdi](https://getferdi.com/)
+- [Mumble Client](https://www.mumble.info/)
+- [Mumble Server](https://www.mumble.info/)
 - [Signal](https://signal.org/)
 - [Slack](https://slack.com)
 - [Telegram](https://desktop.telegram.org/)
@@ -141,6 +144,7 @@
 - [Waterfox](https://www.waterfox.net/)
 
 ### + (En) Developers - (Fr) Développeurs :
+- [Android Studio](https://developer.android.com/studio)
 - [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 - [FileZilla](https://filezilla-project.org/)
 - [Github Desktop](https://desktop.github.com/)
@@ -161,9 +165,12 @@
 - [Bleachbit](https://www.bleachbit.org/)
 - [Buttercup](https://buttercup.pw/)
 - [CCleaner](https://www.ccleaner.com)
+- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
+- [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)
 - [ExpressVPN](https://www.expressvpn.com)
 - [Glary Utilities](https://www.glarysoft.com/)
 - [KeePass 2.x](https://keepass.info/)
+- [KeePassXC](https://keepassxc.org/)
 - [Malwarebytes](https://www.malwarebytes.com/)
 - [NordVPN](https://nordvpn.com)
 - [Spybot](https://www.safer-networking.org/)
@@ -186,6 +193,7 @@
 - [SyncTrayzor](https://syncthing.net/)
 
 ### + (En) Tools - (Fr) Outils :
+- [ActivityWatch](https://activitywatch.net/)
 - [AnyBurn](http://www.anyburn.com/index.htm)
 - [BalenaEtcher](https://www.balena.io/etcher/)
 - [BurnAware](https://www.burnaware.com/)
