@@ -25,13 +25,13 @@ Au 01/09/2022, [202 logiciels sont supportés](https://github.com/SebastienFRA/L
 **FONCTIONNALITÉS :**
 ---
 
-- Il est possible de d'installer la sélection de logiciels  
+- Il est possible de d'installer la sélection de logiciels:  
   *LVASI télécharge les logiciels, les installe et supprime les fichiers téléchargés*
 
-- Il est possible de seulement télécharger la sélection
+- Il est possible de seulement télécharger la sélection:  
   *LVASI télécharge les logiciels dans un dossier dédié*
  
-- Il est possible d'installer ce qui a été précédemment téléchargé
+- Il est possible d'installer ce qui a été précédemment téléchargé:  
   *LVASI installe tous les logiciels présents dans le dossier de téléchargement. Les fichiers ne sont pas supprimés après installation*
   
   [**Guide complet ici**](https://github.com/SebastienFRA/LVASI/blob/main/LVASI%20-%202.1%2B%20-%20AIDE.md)
