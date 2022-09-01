@@ -27,13 +27,13 @@ As of 09/01/2022, [202 softwares are supported](https://github.com/SebastienFRA/
 **FEATURES:**
 ---
 
-- It is possible to install the selection of software
+- It is possible to install the selection of software:  
   *LVASI downloads software, installs and deletes downloaded files*
 
-- It is possible to only download the selection
+- It is possible to only download the selection:  
   *LVASI downloads the software in a dedicated folder*
  
-- It is possible to install what was previously downloaded
+- It is possible to install what was previously downloaded:  
   *LVASI installs all software in the download folder. Files are not deleted after installation*
   
   [**Full guide here**](https://github.com/SebastienFRA/LVASI/blob/main/LVASI%20-%202.1%2B%20-%20AIDE.md)
