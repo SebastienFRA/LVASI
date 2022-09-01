@@ -15,9 +15,26 @@ Ne connaissant rien au code avant de me lancer dans ce projet, j'ai
 beaucoup parcouru internet pour trouver les réponses que je cherchais.
 J'ai beaucoup utilisé le site "SilentInstallHQ.com" de Jason Bergner.
 
-Au 01/09/2022, [202 logiciels sont supportés](https://github.com/SebastienFRA/LVASI/blob/main/Liste.md). **Obtenir de l'aide [ici](https://github.com/SebastienFRA/LVASI/blob/main/LVASI%20-%202.1%2B%20-%20AIDE.md)** 
+Au 01/09/2022, [202 logiciels sont supportés](https://github.com/SebastienFRA/LVASI/blob/main/Liste.md).
+
+[![Télécharger](https://github.com/SebastienFRA/LVASI/blob/main/img/T%C3%A9l%C3%A9charger.light.png)](https://github.com/SebastienFRA/LVASI/releases/download/v2.45/LVASI_v2.45.exe)
 
 [![Demo CountPages alpha](https://github.com/SebastienFRA/LVASI/blob/main/img/LVASI_2.42.gif)](https://youtu.be/ux5MgNagxnU)
+
+---
+**FONCTIONNALITÉS :**
+---
+
+- Il est possible de d'installer la sélection de logiciels  
+  *LVASI télécharge les logiciels, les installe et supprime les fichiers téléchargés*
+
+- Il est possible de seulement télécharger la sélection
+  *LVASI télécharge les logiciels dans un dossier dédié*
+ 
+- Il est possible d'installer ce qui a été précédemment téléchargé
+  -LVASI installe tous les logiciels présents dans le dossier de téléchargement. Les fichiers ne sont pas supprimés après installation*
+  
+  [**Guide complet ici**](https://github.com/SebastienFRA/LVASI/blob/main/LVASI%20-%202.1%2B%20-%20AIDE.md)
 
 -------------------------
 NOTES :
