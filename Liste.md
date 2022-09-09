@@ -87,7 +87,7 @@
 - [Clementine](https://www.clementine-player.org)
 - [Deezer](https://www.deezer.com)
 - [Dopamine](https://digimezzo.com/software/)
-- [fre:ac](https://www.freac.org/)
+- [fre:ac](https://www.freac.org/) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [iTunes](https://www.apple.com/itunes/)
 - [LMMS](https://lmms.io/)
 - [MediaMonkey](https://www.mediamonkey.com/)
