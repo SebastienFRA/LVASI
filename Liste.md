@@ -22,7 +22,7 @@
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
 - [PDF24 Creator](https://www.pdf24.org)
 - [PDFCreator](https://www.pdfforge.org/pdfcreator)
-- [Scanner](https://simon-knuth.github.io/scanner/index)
+- [Scanner](https://simon-knuth.github.io/scanner/index) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [Sigil](https://sigil-ebook.com/)
 - [SumatraPDF](https://www.sumatrapdfreader.org)
 - [TeamWorks](https://www.teamworks.ovh/)
