@@ -16,7 +16,7 @@ Knowing nothing about code before embarking on this project, I
 scoured the internet a lot to find the answers I was looking for.
 I used Jason Bergner's "SilentInstallHQ.com" site a lot.
 
-As of 09/01/2022, [202 softwares are supported](https://github.com/SebastienFRA/LVASI/blob/main/Liste.md). 
+As of 09/09/2022, [210 softwares are supported](https://github.com/SebastienFRA/LVASI/blob/main/Liste.md). 
 
 [![Télécharger](https://github.com/SebastienFRA/LVASI/blob/main/img/Download_light.png)](https://github.com/SebastienFRA/LVASI/releases/download/v2.45/LVASI_v2.45.exe)
 
