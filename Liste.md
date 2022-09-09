@@ -1,5 +1,5 @@
-# (En) LIST OF SUPPORTED SOFTWARES  *(202 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(202 au total)*
-<span style="color:green">*[(En) : last release : 09/01/2022 - (Fr) : Dernière version : 01/09/2022]*</span>.  
+# (En) LIST OF SUPPORTED SOFTWARES  *(210 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(210 au total)*
+<span style="color:green">*[(En) : last release : 09/09/2022 - (Fr) : Dernière version : 09/09/2022]*</span>.  
 <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" /> = *Microsoft Store Application*
 ### + (En) Compression - (Fr) Compression :
 - [7-Zip](https://www.7-zip.org/)
@@ -22,6 +22,7 @@
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
 - [PDF24 Creator](https://www.pdf24.org)
 - [PDFCreator](https://www.pdfforge.org/pdfcreator)
+- [Scanner](https://simon-knuth.github.io/scanner/index)
 - [Sigil](https://sigil-ebook.com/)
 - [SumatraPDF](https://www.sumatrapdfreader.org)
 - [TeamWorks](https://www.teamworks.ovh/)
@@ -86,7 +87,9 @@
 - [Clementine](https://www.clementine-player.org)
 - [Deezer](https://www.deezer.com)
 - [Dopamine](https://digimezzo.com/software/)
+- [fre:ac](https://www.freac.org/)
 - [iTunes](https://www.apple.com/itunes/)
+- [LMMS](https://lmms.io/)
 - [MediaMonkey](https://www.mediamonkey.com/)
 - [MuseScore](https://musescore.org)
 - [MusicBee](https://www.getmusicbee.com/) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
@@ -99,12 +102,13 @@
 ### + (En) Video - (Fr) Vidéo :
 - [4K Video Downloader](https://www.4kdownload.com)
 - [Disney +](https://www.disneyplus.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
+- [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [HandBrake](https://handbrake.fr)
 - [K-Lite Codec Pack (basic, standard, mega)](https://codecguide.com/)
 - [Kdenlive](https://kdenlive.org)
 - [Kodi](https://kodi.tv/)
-- [MediaPlayerClassic-BE](https://mpc-hc.org/)
-- [MediaPlayerClassic-HC](https://github.com/Aleksoid1978/MPC-BE)
+- [MediaPlayerClassic-BE](https://github.com/Aleksoid1978/MPC-BE)
+- [MediaPlayerClassic-HC](https://mpc-hc.org/)
 - [MKVToolNix](https://mkvtoolnix.download/index.html)
 - [Netflix](https://www.netflix.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [OBS Studio](https://obsproject.com)
@@ -117,6 +121,7 @@
 - [ShareX](https://getsharex.com)
 - [Shotcut](https://shotcut.org/)
 - [Shutter Encoder](https://www.shutterencoder.com/)
+- [Video Downloader](https://github.com/engatec/vdl)
 - [VLC](https://www.videolan.org)
 - [vokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html)
 
@@ -195,6 +200,7 @@
 ### + (En) Tools - (Fr) Outils :
 - [ActivityWatch](https://activitywatch.net/)
 - [AnyBurn](http://www.anyburn.com/index.htm)
+- [Auto Screen Capture](https://sourceforge.net/projects/autoscreen/)
 - [BalenaEtcher](https://www.balena.io/etcher/)
 - [BurnAware](https://www.burnaware.com/)
 - [CDBurnerXP](https://cdburnerxp.se)
@@ -222,6 +228,7 @@
 
 ### + (En) Tweaks - (Fr) Améliorations
 
+- [Cairo Desktop](https://cairodesktop.com/)
 - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)
 - [CopyQ](https://hluk.github.io/CopyQ/)
 - [Files](https://files.community/)
@@ -233,5 +240,6 @@
 - [QuickLook](https://github.com/QL-Win/QuickLook)
 - [Rainmeter](https://www.rainmeter.net/)
 - [TeraCopy](https://codesector.com/teracopy)
+- [Twinkle Tray](https://twinkletray.com/)
 - [WinaeroTweaker](https://winaerotweaker.com/)
 - [WPD](https://wpd.app/)
