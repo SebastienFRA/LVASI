@@ -1,10 +1,11 @@
-# (En) LIST OF SUPPORTED SOFTWARES  *(210 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(210 au total)*
-<span style="color:green">*[(En) : last release : 09/09/2022 - (Fr) : Dernière version : 09/09/2022]*</span>.  
+# (En) LIST OF SUPPORTED SOFTWARES  *(214 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(214 au total)*
+<span style="color:green">*[(En) : last release : 09/21/2022 - (Fr) : Dernière version : 21/09/2022]*</span>.  
 <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" /> = *Microsoft Store Application*
 ### + (En) Compression - (Fr) Compression :
 - [7-Zip](https://www.7-zip.org/)
 - [Bandizip](https://www.bandisoft.com/bandizip/)
 - [Caesium Image Compressor](https://saerasoft.com/caesium/)
+- [CompactGUI](https://github.com/IridiumIO/CompactGUI)
 - [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
 - [Peazip](https://peazip.github.io/)
 
@@ -22,7 +23,7 @@
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
 - [PDF24 Creator](https://www.pdf24.org)
 - [PDFCreator](https://www.pdfforge.org/pdfcreator)
-- [Scanner](https://simon-knuth.github.io/scanner/index) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
+- [Scanner](https://simon-knuth.github.io/scanner/index)
 - [Sigil](https://sigil-ebook.com/)
 - [SumatraPDF](https://www.sumatrapdfreader.org)
 - [TeamWorks](https://www.teamworks.ovh/)
@@ -87,7 +88,7 @@
 - [Clementine](https://www.clementine-player.org)
 - [Deezer](https://www.deezer.com)
 - [Dopamine](https://digimezzo.com/software/)
-- [fre:ac](https://www.freac.org/) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
+- [fre:ac](https://www.freac.org/)
 - [iTunes](https://www.apple.com/itunes/)
 - [LMMS](https://lmms.io/)
 - [MediaMonkey](https://www.mediamonkey.com/)
@@ -101,6 +102,7 @@
 
 ### + (En) Video - (Fr) Vidéo :
 - [4K Video Downloader](https://www.4kdownload.com)
+- [Captvty](https://captvty.fr/)
 - [Disney +](https://www.disneyplus.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [HandBrake](https://handbrake.fr)
@@ -225,6 +227,7 @@
 - [Speccy](https://www.ccleaner.com/speccy)
 - [TeamViewer](https://www.teamviewer.com)
 - [VirtualBox](https://www.virtualbox.org/)
+- [WinSlap](https://github.com/svenmauch/WinSlap)
 
 ### + (En) Tweaks - (Fr) Améliorations
 
@@ -239,6 +242,7 @@
 - [PowerToys](https://docs.microsoft.com/windows/powertoys/)
 - [QuickLook](https://github.com/QL-Win/QuickLook)
 - [Rainmeter](https://www.rainmeter.net/)
+- [Tablacus Explorer](https://tablacus.github.io/explorer_en.html)
 - [TeraCopy](https://codesector.com/teracopy)
 - [Twinkle Tray](https://twinkletray.com/)
 - [WinaeroTweaker](https://winaerotweaker.com/)
