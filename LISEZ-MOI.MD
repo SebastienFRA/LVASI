@@ -15,9 +15,9 @@ Ne connaissant rien au code avant de me lancer dans ce projet, j'ai
 beaucoup parcouru internet pour trouver les réponses que je cherchais.
 J'ai beaucoup utilisé le site "SilentInstallHQ.com" de Jason Bergner.
 
-Au 21/09/2022, [**214 logiciels sont supportés**](https://github.com/SebastienFRA/LVASI/blob/main/Liste.md).
+Au 16/12/2022, [**215 logiciels sont supportés**](https://github.com/SebastienFRA/LVASI/blob/main/Liste.md).
 
-[![Télécharger](https://github.com/SebastienFRA/LVASI/blob/main/img/T%C3%A9l%C3%A9charger.light.png)](https://github.com/SebastienFRA/LVASI/releases/download/v2.47/LVASI_v2.47.exe) --- [**ICI**](https://github.com/SebastienFRA/LVASI/releases) la liste de toutes les versions
+[![Télécharger](https://github.com/SebastienFRA/LVASI/blob/main/img/T%C3%A9l%C3%A9charger.light.png)](https://github.com/SebastienFRA/LVASI/releases/download/v2.48/LVASI_v2.48.exe) --- [**ICI**](https://github.com/SebastienFRA/LVASI/releases) la liste de toutes les versions
 
 [![Demo CountPages alpha](https://github.com/SebastienFRA/LVASI/blob/main/img/LVASI_2.42.gif)](https://youtu.be/ux5MgNagxnU)
 
@@ -39,6 +39,7 @@ Au 21/09/2022, [**214 logiciels sont supportés**](https://github.com/SebastienF
 -------------------------
 NOTES :
 -------------------------
+- ⚠ Si vous utilisez LVASI sur un PC fraichement acheté ou réinstallé, il est nécessaire d'ouvrir Internet Explorer (pas Edge) une première fois afin d'accepter l'accès à internet. Si vous ne le faites pas, les téléchargements ne fonctionneront pas.
 
 - ⚠ Il arrive que Windows détecte LVASI comme indésirable (pas systématiquement). C'est un faux positif, je ne sais pas pourquoi mais rien dans le code n'est malveillant. LVASI se contente de télécahrger les fichier d'installation depuis les sources officielles et rien d'autre. Peut-être à cause de la vérification d'une mise à jour de LVASI au démarrage ?  Je n'ai pas encore la réponse.
 
