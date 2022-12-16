@@ -201,6 +201,7 @@
 
 ### + (En) Tools - (Fr) Outils :
 - [ActivityWatch](https://activitywatch.net/)
+- [AeroAdmin](https://www.aeroadmin.com)
 - [AnyBurn](http://www.anyburn.com/index.htm)
 - [Auto Screen Capture](https://sourceforge.net/projects/autoscreen/)
 - [BalenaEtcher](https://www.balena.io/etcher/)
