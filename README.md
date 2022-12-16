@@ -41,6 +41,7 @@ As of 12/16/2022, [215 softwares are supported](https://github.com/SebastienFRA/
 -------------------------
 NOTES 
 -------------------------
+- ⚠ If you are using LVASI on a newly purchased or reinstalled PC, it is necessary to open Internet Explorer (not Edge) for the first time in order to accept internet access. If you don't, downloads won't work.
 
 - ⚠ Sometimes Windows detects LVASI as unwanted (not systematically). It's a false positive, I don't know why but nothing in the code is malicious. LVASI only downloads installation files from official sources and nothing else. Maybe because of checking for an LVASI update on startup? I don't have the answer yet.
 
