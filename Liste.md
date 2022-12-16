@@ -1,5 +1,5 @@
-# (En) LIST OF SUPPORTED SOFTWARES  *(214 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(214 au total)*
-<span style="color:green">*[(En) : last release : 09/21/2022 - (Fr) : Dernière version : 21/09/2022]*</span>.  
+# (En) LIST OF SUPPORTED SOFTWARES  *(215 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(215 au total)*
+<span style="color:green">*[(En) : last release : 12/16/2022 - (Fr) : Dernière version : 16/12/2022]*</span>.  
 <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" /> = *Microsoft Store Application*
 ### + (En) Compression - (Fr) Compression :
 - [7-Zip](https://www.7-zip.org/)
