@@ -21,7 +21,7 @@ As of 12/16/2022, [215 softwares are supported](https://github.com/SebastienFRA/
 [![Télécharger](https://github.com/SebastienFRA/LVASI/blob/main/img/Download_light.png)](https://github.com/SebastienFRA/LVASI/releases/download/v2.48/LVASI_v2.48.exe)
 
 
-[![Demo CountPages alpha](https://github.com/SebastienFRA/LVASI/blob/main/img/LVASI_2.42.gif)](https://youtu.be/ux5MgNagxnU)
+[![Demo CountPages alpha](https://github.com/SebastienFRA/LVASI/blob/main/img/LVASI_v2.48.gif)](https://youtu.be/ux5MgNagxnU)
 
 ---
 **FEATURES:**
