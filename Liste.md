@@ -1,5 +1,5 @@
-# (En) LIST OF SUPPORTED SOFTWARES  *(215 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(215 au total)*
-<span style="color:green">*[(En) : last release : 12/16/2022 - (Fr) : Dernière version : 16/12/2022]*</span>.  
+# (En) LIST OF SUPPORTED SOFTWARES  *(221 in total)* - (Fr) LISTE DES LOGICIELS SUPPORTÉS *(221 au total)*
+<span style="color:green">*[(En) : last release : 09/21/2022 - (Fr) : Dernière version : 21/09/2022]*</span>.  
 <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" /> = *Microsoft Store Application*
 ### + (En) Compression - (Fr) Compression :
 - [7-Zip](https://www.7-zip.org/)
@@ -19,6 +19,7 @@
 - [Kindle PC](https://www.amazon.fr/gp/browse.html?node=22792414031)
 - [Kobo Desktop](https://www.kobo.com/fr/fr/p/desktop)
 - [MaxiCompte](https://www.maxicompte.com/)
+- [ONLYOFFICE](https://www.onlyoffice.com)
 - [OpenOffice](https://www.openoffice.org)
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
 - [PDF24 Creator](https://www.pdf24.org)
@@ -61,6 +62,7 @@
 - [Inkscape](https://inkscape.org/)
 - [Krita](https://krita.org)
 - [MyPaint](http://mypaint.org/about/)
+- [Paint.NET](https://www.getpaint.net)
 - [PhotoFiltre](http://www.photofiltre-studio.com/)
 - [XnView](https://www.xnview.com)
 
@@ -106,6 +108,7 @@
 - [Disney +](https://www.disneyplus.com) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [HandBrake](https://handbrake.fr)
+- [HitFilm Express](https://fxhome.com/product/hitfilm)
 - [K-Lite Codec Pack (basic, standard, mega)](https://codecguide.com/)
 - [Kdenlive](https://kdenlive.org)
 - [Kodi](https://kodi.tv/)
@@ -224,9 +227,11 @@
 - [Rescuezilla](https://rescuezilla.com/)
 - [RevoUninstaller](https://www.revouninstaller.com/)
 - [Rufus](https://rufus.ie)
+- [Sharik](https://github.com/marchellodev/sharik)
 - [Snappy Driver Installer Origin](https://www.snappy-driver-installer.org/)
 - [Speccy](https://www.ccleaner.com/speccy)
 - [TeamViewer](https://www.teamviewer.com)
+- [Ventoy](https://www.ventoy.net/en/index.html)
 - [VirtualBox](https://www.virtualbox.org/)
 - [WinSlap](https://github.com/svenmauch/WinSlap)
 
@@ -235,6 +240,7 @@
 - [Cairo Desktop](https://cairodesktop.com/)
 - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)
 - [CopyQ](https://hluk.github.io/CopyQ/)
+- [EarTrumpet](https://eartrumpet.app/)
 - [Files](https://files.community/)
 - [Ksnip](https://github.com/ksnip/ksnip)
 - [LightBulb](https://github.com/Tyrrrz/LightBulb)
