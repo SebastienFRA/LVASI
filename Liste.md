@@ -240,7 +240,7 @@
 - [Cairo Desktop](https://cairodesktop.com/)
 - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)
 - [CopyQ](https://hluk.github.io/CopyQ/)
-- [EarTrumpet](https://eartrumpet.app/)
+- [EarTrumpet](https://eartrumpet.app/) <img src="https://nsm09.casimages.com/img/2022/08/14//mini_22081409240621727717971114.png" width="17" height="17" />
 - [Files](https://files.community/)
 - [Ksnip](https://github.com/ksnip/ksnip)
 - [LightBulb](https://github.com/Tyrrrz/LightBulb)
