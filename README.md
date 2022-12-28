@@ -36,7 +36,7 @@ As of 12/23/2022, [221 softwares are supported](https://github.com/SebastienFRA/
 - It is possible to install what was previously downloaded:  
   *LVASI installs all software in the download folder. Files are not deleted after installation*
   
-  [**Full guide here**](https://github.com/SebastienFRA/LVASI/blob/main/LVASI%20-%202.1%2B%20-%20AIDE.md)
+  [**Full guide here**](https://github.com/SebastienFRA/LVASI/blob/main/LVASI%20-%202.1%2B%20-%20HELP.md)
 
 -------------------------
 NOTES 
