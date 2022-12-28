@@ -18,7 +18,7 @@ I used Jason Bergner's "SilentInstallHQ.com" site a lot.
 
 As of 12/23/2022, [221 softwares are supported](https://github.com/SebastienFRA/LVASI/blob/main/Liste.md). 
 
-[![Télécharger](https://github.com/SebastienFRA/LVASI/blob/main/img/Download_light.png)](https://github.com/SebastienFRA/LVASI/releases/download/v2.49/LVASI_v2.49.exe)
+[![Télécharger](https://github.com/SebastienFRA/LVASI/blob/main/img/Download_light.png)](https://github.com/SebastienFRA/LVASI/releases/download/v2.50/LVASI_v2.50.exe)
 
 
 [![Demo CountPages alpha](https://github.com/SebastienFRA/LVASI/blob/main/img/LVASI_v2.48.gif)](https://youtu.be/ux5MgNagxnU)
