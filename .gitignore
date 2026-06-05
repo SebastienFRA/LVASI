@@ -1,0 +1,25 @@
+# Build outputs
+**/bin/
+**/obj/
+**/*.dll
+**/*.exe
+**/*.pdb
+**/*.deps.json
+**/*.runtimeconfig.json
+
+# IDE
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# LVASI specific
+LVASI - Téléchargements/
+download_errors.log
