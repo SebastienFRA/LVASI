@@ -5,7 +5,6 @@
 ------------------------------------------------------------	
 PRESENTATION 
 ------------------------------------------------------------
-**Version française [ici](https://github.com/SebastienFRA/LVASI/blob/main/LISEZ-MOI.MD)**
 
 L.V.A.S.I. was born from a desire to have a tool that allows me to download,
 install automatically and without intervention on my part, the software
@@ -16,12 +15,23 @@ Knowing nothing about code before embarking on this project, I
 scoured the internet a lot to find the answers I was looking for.
 I used Jason Bergner's "SilentInstallHQ.com" site a lot.
 
-As of 12/23/2022, [221 softwares are supported](https://github.com/SebastienFRA/LVASI/blob/main/Liste.md). 
+[![Demo CountPages alpha](https://github.com/SebastienFRA/LVASI/blob/main/img/LVASI3.gif)](https://youtu.be/ux5MgNagxnU)
 
-[![Télécharger](https://github.com/SebastienFRA/LVASI/blob/main/img/Download_light.png)](https://github.com/SebastienFRA/LVASI/releases/download/v2.51/LVASI_v2.51.exe)
+## 📊 Comparison with alternatives
 
-
-[![Demo CountPages alpha](https://github.com/SebastienFRA/LVASI/blob/main/img/LVASI_v2.50.gif)](https://youtu.be/ux5MgNagxnU)
+| Feature | **LVASI 3.0.0** | WingetUI / UniGetUI | Chocolatey | Ninite | Scoop |
+|---|---|---|---|---|---|
+| **Graphical interface** | ✅ Modern WPF | ✅ | ❌ CLI only | ✅ Web | ❌ CLI only |
+| **Offline mode** | ✅ Install from local files | ❌ Requires internet | ⚠️ Limited local cache | ❌ Requires internet | ❌ Requires internet |
+| **MSIX support** | ✅ Native installation | ⚠️ Partial | ❌ Not supported |  Not supported | ❌ Not supported |
+| **Number of software** | ~200 (manually verified) | ~10,000+ (via winget) | ~10,000+ | ~100+ | ~5,000+ |
+| **Download sources** | ✅ Official publisher websites | ✅ Via winget (official) | ✅ Official repo | ⚠️ Ninite servers | ✅ Official repo |
+| **Silent installation** | ✅ Automatic | ✅ Via winget | ✅ | ✅ | ✅ |
+| **Multi-language** | ✅ FR / EN | ✅ | ✅ | ❌ EN only | ✅ |
+| **Embedded resources** | ✅ Logos, translations, icons integrated | ❌ | ❌ | ❌ |  |
+| **Free and open-source** | ✅ MIT License | ✅ GPL-3.0 | ️ Mixed (free + paid) | ❌ Free but proprietary | ✅ MIT License |
+| **Ads / Telemetry** | ✅ None | ✅ None | ⚠️ Optional telemetry | ❌ None | ✅ None |
+| **Installation without prerequisites** | ✅ Bootstrapper .NET Framework 4.8 | ❌ Requires .NET Desktop Runtime | ❌ Requires .NET Framework | ❌ Requires web browser |  Requires PowerShell 5+ |
 
 ---
 **FEATURES:**
@@ -35,16 +45,10 @@ As of 12/23/2022, [221 softwares are supported](https://github.com/SebastienFRA/
  
 - It is possible to install what was previously downloaded:  
   *LVASI installs all software in the download folder. Files are not deleted after installation*
-  
-  [**Full guide here**](https://github.com/SebastienFRA/LVASI/blob/main/LVASI%20-%202.1%2B%20-%20HELP.md)
 
 -------------------------
 NOTES 
 -------------------------
-- ⚠ If you are using LVASI on a newly purchased or reinstalled PC, it is necessary to open Internet Explorer (not Edge) for the first time in order to accept internet access. If you don't, downloads won't work.
-
-- ⚠ Sometimes Windows detects LVASI as unwanted (not systematically). It's a false positive, I don't know why but nothing in the code is malicious. LVASI only downloads installation files from official sources and nothing else. Maybe because of checking for an LVASI update on startup? I don't have the answer yet.
-
 - Installations are planned on a 64-bit system (32-bit being phased out).
 
 - The installations are primarily made in French. Some software adapts to the language
@@ -60,17 +64,12 @@ improve it, etc.
 - Feel free to contact me if there are any problems downloading or installing. I will try to solve the problem
 as quickly as possible.
 
-- In "online mode", for OpenOffice and Geforce Experience, 7-zip is required. If you don't have it, LVASI installs it during the process and then uninstalls it.
-
-- LVASI works thanks to a PowerShell script that I make executable thanks to WIN-PS2EXE available on Github [here](https://github.com/MScholtes/Win-PS2EXE).
-
 - The LVASI icon comes from the flaticon site [here](https://www.flaticon.com/free-icon/software_4196389)
 
 -------------------------
 IN CASE OF PROBLEM :
 -------------------------
 
-LVASI creates a log file named "LVASI_logfile.txt" where the errors it encounters are written, you can take a look at it or send it to me by reporting the errors you encounter. Unfortunately, sometimes downloads and installations do not work without LVASI reporting an error.
 - If software does not install / download:
    - The download may simply have failed. ➡ Restarting the installation / downloading of the software may be sufficient.
    - Download link fetching by LVASI may be outdated. ➡ Notify me of the software that is causing the problem so that I can rectify it.
